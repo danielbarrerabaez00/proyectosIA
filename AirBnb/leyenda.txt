@@ -1,0 +1,18 @@
+id: identificador del alojamiento
+name: nombre del alojamiento
+host_id: identificador del anfitrión
+host_name: nombre del anfitrión 
+neighbourhood_group: distrito
+neighbourhood: barrio
+latitude y longitude: coordenadas de la ubicación del alojamiento.
+room_type: tipo de habitación
+price: precio por noche
+minimum_nights: número mínimo de noches que hay que reservar
+number_of_reviews: números de reseñas del alojamiento
+last_review: fecha de la última reseña
+reviews_per_month: número de reseñas mensuales
+calculated_host_listings_count: veces que ha sido listado el alojamiento
+availability_365: días de disponibilidad en el último año
+week_price: precio por semanas
+PETS Allowed: si se permiten mascotas
+swimming pool: si el alojamiento dispone de piscina
